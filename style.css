@@ -1,0 +1,16 @@
+body{
+    background-color: darkslategray;
+    color: white;
+    margin: auto;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 30px;
+}
+h1{
+    font-size: 50px;
+}
+hr{
+    background-color: rgb(212, 210, 210);
+    width: 300px;
+    margin: 0 auto;
+}
